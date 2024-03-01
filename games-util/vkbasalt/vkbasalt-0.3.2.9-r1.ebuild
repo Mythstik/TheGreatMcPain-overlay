@@ -33,9 +33,9 @@ RDEPEND="
 "
 
 BDEPEND="
-	>dev-util/vulkan-headers-1.1
+	>dev-util/vulkan-headers
 	dev-util/glslang
-	>=dev-util/meson-0.49
+	>=dev-util/meson-
 	x11-libs/libX11[${MULTILIB_USEDEP}]
 "
 
